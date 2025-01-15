@@ -1,7 +1,4 @@
 streamlit
-openai
-pypdf
-scikit-learn
+openai>=1.0.0
 numpy
 python-dotenv
-sentence-transformers
